@@ -77,6 +77,9 @@ form select {
   display: none;
   color: red;
 }
+#notes {
+  font-size: 17px;
+}
 #jobType,
 #status {
   line-height: 18px;
